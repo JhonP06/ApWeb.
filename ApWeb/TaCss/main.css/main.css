@@ -1,0 +1,56 @@
+/*Fuentes*/
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AU+TAS:wght@100..400&display=swap');
+
+#body{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    overflow-x:hidden ;
+}
+
+/*Menu*/
+#menu li > a{
+    font-size: 18px;
+    font-weight: bold;
+    background-color:wheat;
+    
+}
+#menu form > button{
+    font-size: 10px;
+    font-weight: 20px;
+    border-color:gold;
+    background-color:darkturquoise;
+    
+}
+
+/*CARRUSEL*/
+.carousel-inner{
+    max-height: 15rem;
+    max-width: 85rem;
+}
+
+
+
+
+#equipo {
+    display: none;
+    
+}
+.servicio-fila{
+    width: 100%;
+    text-align: center;
+}
+#bg-contacto{
+    
+    top: -110px;
+}
+
+#bg-contacto{
+    position: relative;
+    top: -130px;
+}
+
+#seccion-contacto{
+    background-color: blue;
+    min-height: 500px;
+    position: relative;
+}
